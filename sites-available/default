@@ -1,0 +1,5 @@
+server  {
+
+  include global/anti-referrer-spam.conf;
+
+        }
